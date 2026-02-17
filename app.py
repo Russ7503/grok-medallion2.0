@@ -93,5 +93,4 @@ with tab3:
     st.subheader("💰 Robinhood Ready (Coming in v1.1)")
     st.info("Next step: Add robin_stocks and login code.")
 
-st.caption("**Pro Tip**: This sims strong returns in backtests. Refresh for live. Your Medallion starts here.")
-Add main app.py file for Streamlit
+st.caption("**Pro Tip**: This sims strong returns in backtests. Refresh for live. Your Medallion starts here)
