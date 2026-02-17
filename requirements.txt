@@ -3,4 +3,3 @@ yfinance
 pandas
 numpy
 plotly
-Add requirements.txt for Streamlit dependencies
